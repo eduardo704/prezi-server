@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server for prezi app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "eduardo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.22"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
