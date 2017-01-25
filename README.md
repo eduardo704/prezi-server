@@ -13,3 +13,5 @@ I confiugred it to run on port 8001 but it can be changed on the server.js file
 
 
 I chose node over other backend server side technologies because even thuogh I am more familiar with java and in this case spring boot I saw it was not on the job description so I chose one that at least I know the language and it seems really simple for the task given.
+
+![screenshot](https://github.com/eduardo704/prezi-server/blob/master/screenshot.PNG)
