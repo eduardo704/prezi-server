@@ -5,7 +5,7 @@ module.exports = function (app, db) {
         next();
     });
 
-    app.get('/notes', (req, res) => {
+    app.get('/slides', (req, res) => {
         var prezi = [{
                 "id": "56f137f432fbb67217182785",
                 "title": "incididunt amet ad nostrud",
